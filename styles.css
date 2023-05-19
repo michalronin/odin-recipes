@@ -1,0 +1,14 @@
+body {
+  font-family: Verdana, sans-serif;
+  max-width: 500px;
+  margin: auto;
+}
+
+.heading {
+  text-align: center;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
